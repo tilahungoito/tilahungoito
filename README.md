@@ -48,3 +48,5 @@ I'm always open to collaboration, learning opportunities, and contributing to op
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House  
 > Let's build something great together. 🚀
+>
+> https://tilahungoito.github.io/tilahun-tech-radar/
